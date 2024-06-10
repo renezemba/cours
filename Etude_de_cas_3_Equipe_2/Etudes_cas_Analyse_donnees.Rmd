@@ -13,24 +13,6 @@ Vous êtes arrivés à la fin de votre formation. Vous avez été confronté à 
 
 Chaque équipe doit choisir une étude de cas.
 
-# Étude de cas 1: Ouverture aux médias et violences contre les femmes
-
-Dans cette étude de cas, vous allez examiner les différences transnationales dans les attitudes envers la violence domestique et l’accès à l’information. Vous allez explorer l’hypothèse selon laquelle il existe une association au niveau global entre la mesure dans laquelle les individus d’un pays ont accès aux connaissances et aux nouvelles informations, à la fois par le biais de l’éducation formelle et des médias de masse, et leur probabilité de condamner les actes de violence conjugale. Vous allez vous baser sur les articles de Pierotti, Rachel. (2013). « Increasing Rejection of Intimate Partner Violence: Evidence of Global Cultural Diffusion. » American Sociological Review, 78: 240-265. Vous allez compléter les analyses en tenant ausi compte de la possession de teeléphonie mobile comme source d'information. Vous allez baser vos analyses sur les données des enquêtes démographiques et de santé. 
-
-**Références**
-
-- Pierotti, R. S. (2013). Increasing Rejection of Intimate Partner Violence: Evidence of Global Cultural Diffusion. https://journals-sagepub-com.proxy.bibliotheques.uqam.ca/doi/10.1177/0003122413480363
-
-- Pesando, L. M. (2022). Safer If Connected? Mobile Technology and Intimate Partner Violence. Demography, 59(2), 653–684. https://doi.org/10.1215/00703370-9774978
-
-
-# Étude de cas 2: Qualité des données (Santé et éducation des enfants)
-
-Les informations sur la vaccination ou le poids à la naissance des enfants proviennent soit des carnets de vaccination, soit de la mémoire des mamans. Cette deuxième source d'information est assujetie à des biais de mémoire. Cette étude de cas vise à prédire le statut de vaccination ou le poids à la naissance des enfants et à les comparer avec les déclarations des mamans.
-
-**Références**:
-
-- Koffi, A. K., Adjiwanou, V. D., Becker, S., Olaolorun, F., & Tsui, A. O. (2012). Correlates of and Couples’ Concordance in Reports of Recent Sexual Behavior and Contraceptive Use. Studies in Family Planning, 43(1), 33–42. https://doi.org/10.1111/j.1728-4465.2012.00300.x
 
 # Étude de cas 3: Prédire la situation familiale des enfants
 
