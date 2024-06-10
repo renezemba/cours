@@ -1,0 +1,83 @@
+---
+title: 'Études de cas: Collecte de données digitales'
+author: "Visseho Adjiwanou, PhD."
+date: "`r format(Sys.time(), '%d %B %Y')`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# Objectifs
+
+Vous êtes arrivés à la fin de votre formation. Vous avez été confronté à plusieurs outils de collectes de données, à plusieurs théories économiques et sociologiques et enfin à plusieurs méthodes de visualisation et d'analyses des données. Le but de ce cours est de mettre tout cela en application à travers des études de cas où vous serez amené à travailler avec de vraies données pour répondre à de vraies questions de recherche. Vous allez apprendre à travailler d'abord avec des données traditionnelles et ensuite les augmenter par des idées de nouvelles sources de données que vous serez amenés à collecter et à analyser. Cette seconde source de données ne vous est pas proposée ici, mais cela peut-être une collecte additionnelle sur Facebook, ou une enquête rapide en ligne.
+
+Chaque équipe doit choisir une étude de cas.
+
+# Étude de cas 1: Ouverture aux médias et violences contre les femmes
+
+Dans cette étude de cas, vous allez examiner les différences transnationales dans les attitudes envers la violence domestique et l’accès à l’information. Vous allez explorer l’hypothèse selon laquelle il existe une association au niveau global entre la mesure dans laquelle les individus d’un pays ont accès aux connaissances et aux nouvelles informations, à la fois par le biais de l’éducation formelle et des médias de masse, et leur probabilité de condamner les actes de violence conjugale. Vous allez vous baser sur les articles de Pierotti, Rachel. (2013). « Increasing Rejection of Intimate Partner Violence: Evidence of Global Cultural Diffusion. » American Sociological Review, 78: 240-265. Vous allez compléter les analyses en tenant ausi compte de la possession de teeléphonie mobile comme source d'information. Vous allez baser vos analyses sur les données des enquêtes démographiques et de santé. 
+
+**Références**
+
+- Pierotti, R. S. (2013). Increasing Rejection of Intimate Partner Violence: Evidence of Global Cultural Diffusion. https://journals-sagepub-com.proxy.bibliotheques.uqam.ca/doi/10.1177/0003122413480363
+
+- Pesando, L. M. (2022). Safer If Connected? Mobile Technology and Intimate Partner Violence. Demography, 59(2), 653–684. https://doi.org/10.1215/00703370-9774978
+
+
+# Étude de cas 2: Qualité des données (Santé et éducation des enfants)
+
+Les informations sur la vaccination ou le poids à la naissance des enfants proviennent soit des carnets de vaccination, soit de la mémoire des mamans. Cette deuxième source d'information est assujetie à des biais de mémoire. Cette étude de cas vise à prédire le statut de vaccination ou le poids à la naissance des enfants et à les comparer avec les déclarations des mamans.
+
+**Références**:
+
+- Koffi, A. K., Adjiwanou, V. D., Becker, S., Olaolorun, F., & Tsui, A. O. (2012). Correlates of and Couples’ Concordance in Reports of Recent Sexual Behavior and Contraceptive Use. Studies in Family Planning, 43(1), 33–42. https://doi.org/10.1111/j.1728-4465.2012.00300.x
+
+# Étude de cas 3: Prédire la situation familiale des enfants
+
+Dans leur étude sur les familles recomposées en Afrique, Adjiwanou et ses collègues trouvent qu'une bonne proportion d'enfants ne peuvent pas être correctement attribués à leur situation familiale (confère figure 3). Dans cette étude de cas, votre objectif est d'étudier l'évolution de la situation familiale des enfants au cours du temps à partir des nombreuses bases de données disponibles pour chaque pays. Vous chercherez également à prédire la situation familiale des enfants pour qui l'information est manquante ou pour qui il est difficile de statuer clairement sur leur situation familiale.
+
+**Références**
+
+- Adjiwanou, V., Boco, G. A., & Yaya, S. (2021). Stepfather families and children’s schooling in sub-Saharan Africa: A cross-national study. Demographic Research, 44(27), 627–670. https://doi.org/10.4054/DemRes.2021.44.27
+
+# Travail à faire:
+
+Une première indication est données dans chaque étude de cas. De manière plus détaillée, voici ce que j'attends de vous:
+
+1. Sélectionner entre 5 et 10 pays
+
+2. Pour chaque article qui vous est suggéré obligatoirement, lisez la méthodologie et :
+
+- déterminer la variable dépendante et comment elle est mesurée;
+
+- déterminer la variable indépendante principale et dites comment elle est mesurée;
+
+- les autres variables et dires comment elles sont mesurées.
+Pour chaque variable, réfléchissez sur la **fiabilité** et la **validité** de la mesure proposée.
+
+3. Créer ces variables à partir de votre base de données. Nommez ce fichier `creation.Rmd`. C'est dans ce fichier où doit se trouver toutes les variables que vous êtes amener à créer. Pour chaque variable créé, regardez la distribution et prenez les décisions appropriées en termes de regroupement des catégories. **Vous devez avoir fini les étapes 1 à 3 le premier jour.**
+
+4. Analyse des données. Vous devez créer un nouveau fichier que vous nommez `analyse.Rmd` qui comprends toutes les analyses que vous faites. La réalisation de ce travail va vous amener à créer de nouvelles variables, et à faire de nouveaux regroupements. C'est ici que vous chercherez à répondre aux questions spécifiques qui concerne votre projet.
+
+5. Rédaction de l'article: Dans un dernier fichier nommé rédaction.Rmd, rédigez votre article. Mettez l'accent sur la description de la méthododologie et des principaux résultats. Vous devez préparer une préparation Powerpoint de votre travail pour le dernier jour. Vous devez créer aussi une application shiny app pour une présentation interactive de vos résultats.
+
+**Remarques importantes**
+
+- Si vous avez des difficultés, vous devez venir les discuter avec moi. mais, vous devez toujours préparer une réponse plausible à votre question avant de venir en discuter, cela va beaucoup vous aider à comprendre mes explications. 
+
+- Vous devez accorder une grande place à la réplication de vos résultats.
+
+- Vous devez accordez un grand soin aux tableaux et à aux graphiques
+
+- Les références doivent être citées directement dans le fichier .Rmd.
+
+# Sources de données
+
+Les données proviennent des Enquêtes démographiques et de santé, qui sont un ensemble de plus de 300 enquêtes représentatives à l’échelle nationale, régionale et résidentielle qui ont été menées dans les pays en développement du monde entier à partir de 1992. Les enquêtes utilisent un plan de sondage stratifié en deux étapes. Dans la première étape, les zones de dénombrement (ZD) sont tirées des fichiers de recensement. Dans la deuxième étape, au sein de chaque ZD, un échantillon de ménages est tiré d’une liste actualisée de ménages. En outre, les questionnaires et les formations des enquêteurs sont identiques dans les deux enquêtes, ce qui permet de comparer directement les données d'un pays à celles recueillies dans d'autres pays. Il est important de noter que des groupes de pays différents sont interrogés chaque année.
+# Ressources
+
+Voici quelques ressources pour vous accompagner :
+
+- Présentation des données avec Shiny-app: https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/index.html
+
+
