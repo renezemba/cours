@@ -28,14 +28,29 @@ Une première indication est données dans chaque étude de cas. De manière plu
 
 1. Sélectionner entre 5 et 10 pays
 
+Nous allons choisir BURKINA-FASO.
+
 2. Pour chaque article qui vous est suggéré obligatoirement, lisez la méthodologie et :
 
 - déterminer la variable dépendante et comment elle est mesurée;
 
+La variable dépendante est la fréquentation scolaire des enfants (âgés de 6 à 9 ans et de 10 à 14 ans) au moment de l'enquête.
+Cette variable est mesurée en déterminant si les enfants âgés de 6 à 9 ans et de 10 à 14 ans étaient inscrits et fréquentaient l'école au moment de l'enquête, et elle est codée 1 si l'enfant était scolarisé au moment de l'enquête et 0 sinon.
+
 - déterminer la variable indépendante principale et dites comment elle est mesurée;
+
+Le type de structure familiale dans laquelle vit l’enfant est la variable indépendante principale.
+Elle est mesurée à travers 06 mdalités que sont : Both parents , Fostered out , Single mother , Fathers , Non residential (step) fathers , stepfathers .
+
 
 - les autres variables et dires comment elles sont mesurées.
 Pour chaque variable, réfléchissez sur la **fiabilité** et la **validité** de la mesure proposée.
+
+Âge des enfants : Mesuré en années complètes au moment de l'enquête.
+Sexe des enfants : Mesuré comme une variable binaire (masculin/féminin).
+Niveau d'éducation des parents : Mesuré par le nombre d'années de scolarisation formelle ou par les niveaux d'éducation atteints (primaire, secondaire, etc.).
+Statut économique du ménage : Mesuré par divers indicateurs économiques comme le revenu familial, la possession de biens matériels (comme des véhicules, appareils électroménagers), et parfois des indices de richesse construits à partir de ces possessions.
+Zone de résidence : Mesurée comme urbaine ou rurale, basée sur les définitions standardisées des enquêtes démographiques et de santé.
 
 3. Créer ces variables à partir de votre base de données. Nommez ce fichier `creation.Rmd`. C'est dans ce fichier où doit se trouver toutes les variables que vous êtes amener à créer. Pour chaque variable créé, regardez la distribution et prenez les décisions appropriées en termes de regroupement des catégories. **Vous devez avoir fini les étapes 1 à 3 le premier jour.**
 
