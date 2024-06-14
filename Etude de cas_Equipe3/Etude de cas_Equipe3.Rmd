@@ -1,0 +1,99 @@
+---
+title: "RESUMEs"
+author: |
+  OUEDRAOGO CHRISTIAN CYRIAQUE \\
+  OUEDRAOGO FABRICE \\
+  LOMPO SAMBOAL
+date: "2024-06-04"
+output: 
+  beamer_presentation: 
+    theme: Berlin
+    colortheme: dolphin
+    fonttheme: structurebold
+    highlight: tango
+    slide_level: 2
+  ioslides_presentation: 
+    highlight: tango
+header-includes:
+  - \usepackage{graphicx}
+  - \usepackage{wrapfig}
+  - \usepackage{hyperref}
+  - \titlegraphic{\includegraphics[width=0.2\textwidth]{issp-300x274-1.png}}
+---
+
+## PLAN 
+
+- \hyperlink{introduction}{INTRODUCTION}
+
+- \hyperlink{Contexte}{Contexte de l'Étude}
+
+- \hyperlink{Méthodologie}{Méthodologie}
+
+- \hyperlink{Résultats Clés}{Résultats Clés}
+
+- \hyperlink{resultats}{Interprétation des Résultats}
+
+- \hyperlink{implications}{Conclusions et ImplicationsE}
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+## \hypertarget{introduction}{INTRODUCTION}
+&nbsp;
+
+L'étude intitulée "Safer If Connected? Mobile Technology and Intimate Partner Violence" par Lucia M. Pesando examine l'impact de la possession de téléphones mobiles sur l'incidence de la violence conjugale contre les femmes dans les pays à revenu faible et intermédiaire (PRFI). Le thème central de cette recherche est de déterminer si l'accès aux technologies mobiles peut améliorer la sécurité et l'autonomisation des femmes en réduisant leur exposition à la violence émotionnelle, physique, et sexuelle de la part de leurs partenaires intimes.
+
+&nbsp;
+
+```{r cars, echo = TRUE}
+
+```
+
+##        \hypertarget{Contexte}{Contexte de l'Étude}
+
+&nbsp;
+Les téléphones mobiles sont devenus omniprésents, même dans les régions les plus pauvres du monde, offrant un potentiel unique pour transformer la vie des femmes en leur donnant accès à l'information, aux réseaux de soutien et aux services d'urgence. Dans les PRFI, les femmes sont souvent marginalisées économiquement et socialement, ce qui les rend particulièrement vulnérables à la violence conjugale. Ce contexte souligne l'importance d'étudier comment la technologie mobile peut jouer un rôle crucial dans la protection et l'émancipation des femmes.
+&nbsp;
+
+
+```{r}
+
+```
+
+
+##                    \hypertarget{Méthodologie}{Méthodologie}
+&nbsp;
+L'étude utilise des données provenant des Enquêtes Démographiques et de Santé (DHS), couvrant plusieurs pays à revenu faible et intermédiaire. Les variables analysées incluent la violence émotionnelle, physique, sexuelle et toute forme de violence. Les contrôles prennent en compte des caractéristiques au niveau individuel (éducation, statut de travail, état civil), au niveau du partenaire (éducation, statut de travail, consommation d'alcool), et au niveau du ménage (localisation, richesse, possession de radio, télévision, téléphone fixe). Les modèles de correspondance non paramétriques, tels que la correspondance des plus proches voisins et la correspondance exacte grossière, ainsi que l'estimation par variables instrumentales, sont utilisés pour traiter les problèmes d'endogénéité et fournir des estimations robustes.
+&nbsp;  
+
+```{r}
+
+```
+
+##      \hypertarget{Résultats Clés}{Résultats Clés}
+
+&nbsp;
+Les résultats montrent une association négative significative entre la possession de téléphones mobiles et la violence conjugale. Plus précisément, la possession de téléphones mobiles par les femmes est associée à une réduction de 9 à 12% de la probabilité de subir des violences émotionnelles, physiques et sexuelles. Ces résultats sont robustes dans 7 des 10 pays étudiés, même après avoir contrôlé pour diverses caractéristiques socio-économiques et communautaires. Par exemple, les femmes possédant un téléphone mobile montrent une réduction de 2.6% de la violence émotionnelle, 2.7% de la violence physique, et 1.3% de la violence sexuelle
+&nbsp;   
+```{r}
+```
+
+    
+##    \hypertarget{resultats}{Interprétation des Résultats}
+&nbsp;
+Les téléphones mobiles peuvent servir d'outils d'autonomisation pour les femmes, leur offrant un accès accru à l'information, aux réseaux sociaux, et aux services de secours. Cette autonomisation se manifeste par un pouvoir décisionnel accru au sein des ménages et des attitudes moins favorables à la violence chez les hommes possédant un téléphone mobile. Les téléphones mobiles permettent également aux femmes de signaler plus facilement les abus et de chercher de l'aide, ce qui peut contribuer à une réduction globale de la violence conjugale
+```{r}
+
+```
+
+
+##        \hypertarget{implications}{Conclusions et Implications}
+
+&nbsp;
+En conclusion, l'étude démontre que la possession de téléphones mobiles peut avoir un impact significatif sur la réduction de la violence conjugale contre les femmes dans les PRFI. Ces résultats ont des implications importantes pour les politiques publiques, suggérant que promouvoir l'accès aux technologies mobiles pourrait être une stratégie efficace pour lutter contre la violence conjugale et améliorer l'autonomisation des femmes. Pour l'avenir, il est recommandé de collecter davantage de données et de mener des recherches causales pour mieux comprendre les mécanismes par lesquels les technologies mobiles influencent la violence conjugale.
+&nbsp;
+    
